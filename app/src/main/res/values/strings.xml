@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StaticFragmentApp</string>
+    <string name="action_settings">Settings</string>
+
+    //pantalla landscape
+
+    <string name="texto_land">LANDSCAPE</string>
+
+    //pantalla PORTRAIT
+
+    <string name="texto_port">PORTRAIT</string>
+</resources>
